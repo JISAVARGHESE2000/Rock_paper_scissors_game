@@ -4,10 +4,6 @@ This is a fun and interactive **Rock-Paper-Scissors game** where you play agains
 
 ---
 
-## 📸 Demo
-
----
-
 ## 🚀 Features
 
 - Real-time hand tracking using webcam
